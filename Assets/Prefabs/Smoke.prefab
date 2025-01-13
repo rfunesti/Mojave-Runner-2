@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6190049357989830444}
   - component: {fileID: 3457014862795787718}
   - component: {fileID: 5688555824052510380}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4855,7 +4855,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
@@ -4900,7 +4900,7 @@ GameObject:
   - component: {fileID: 7081899793025625753}
   - component: {fileID: 5366073148189919815}
   - component: {fileID: 2591005608540573593}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9700,9 +9700,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1364779743
-  m_SortingLayer: 1
-  m_SortingOrder: 10
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 50
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
@@ -9746,7 +9746,7 @@ GameObject:
   - component: {fileID: 7093097392059721047}
   - component: {fileID: 5974461083176426169}
   - component: {fileID: 7251798038438137018}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14590,7 +14590,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
