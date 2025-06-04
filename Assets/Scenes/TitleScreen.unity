@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 86491561}
   - component: {fileID: 86491560}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Screen Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 256335026}
   - component: {fileID: 256335025}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Start Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -450,7 +450,7 @@ GameObject:
   - component: {fileID: 573475997}
   - component: {fileID: 573475996}
   m_Layer: 5
-  m_Name: Text (Legacy) (1)
+  m_Name: Screen Title 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -529,7 +529,7 @@ GameObject:
   - component: {fileID: 694023599}
   - component: {fileID: 694023598}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -819,15 +819,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7664705312294379419, guid: 5cf5fdd101b97d047b657eafffe0a0b0, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7664705312294379419, guid: 5cf5fdd101b97d047b657eafffe0a0b0, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7664705312294379419, guid: 5cf5fdd101b97d047b657eafffe0a0b0, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7664705312294379419, guid: 5cf5fdd101b97d047b657eafffe0a0b0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -944,15 +944,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1306580486372392786, guid: 7921e86b5745b6947934c3456ea535e3, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1306580486372392786, guid: 7921e86b5745b6947934c3456ea535e3, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1306580486372392786, guid: 7921e86b5745b6947934c3456ea535e3, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1306580486372392786, guid: 7921e86b5745b6947934c3456ea535e3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -976,9 +976,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1387755256}
-  - {fileID: 1984164116}
   - {fileID: 1197862373}
   - {fileID: 1556675422}
+  - {fileID: 1984164116}
   - {fileID: 250488041}
   - {fileID: 1780184419}
   - {fileID: 721146015}
